@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{4CF53BF3-4771-4868-B473-F63DBEC08049}</ProjectGuid>
+    <ProjectGuid>{4E25E3CE-C3CE-441C-8454-5D78C55BF43B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>MiniMaxSum</RootNamespace>
+    <RootNamespace>MarsExploration</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
