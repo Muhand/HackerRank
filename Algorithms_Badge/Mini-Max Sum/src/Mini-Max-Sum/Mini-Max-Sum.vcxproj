@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{06AB2692-E4A2-4150-869C-0081EAE58892}</ProjectGuid>
+    <ProjectGuid>{4CF53BF3-4771-4868-B473-F63DBEC08049}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CompareTheTriplets</RootNamespace>
+    <RootNamespace>MiniMaxSum</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -146,7 +146,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
